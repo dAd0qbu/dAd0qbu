@@ -10,9 +10,8 @@
 - 🗺 Living in Dong Nai, Viet Nam
 - 🐶 Doggo lover
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dAd0qbu&custom_title=My%20Github%20Stats&include_all_commits=true&count_private=true&show_icons=true&theme=vue-dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dAd0qbu&count_private=true&langs_count=8&layout=compact&card_width=232&theme=vue-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dAd0qbu&custom_title=My%20Github%20Stats&include_all_commits=true&count_private=true&show_icons=true&theme=vue-dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dAd0qbu&count_private=true&langs_count=8&layout=compact&theme=vue-dark)
 
 ---
 
 [![Gachcraft](https://api.loohpjames.com/serverbanner.png?ip=sv.gachcraft.net&name=Gachcraft)](https://discord.gg/gachcraft)
-<p align="center">sv.gachcraft.net</p>
