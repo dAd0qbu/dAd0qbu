@@ -3,7 +3,7 @@
 <a href="https://open.spotify.com/user/4eqiwcxmeyi8v0ajjiw7pso1c" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify" title="Phan Nguyen Huy Duy"></a>
 <a href="https://codeforces.com/profile/dAd0qbu" target="_blank"><img src="https://img.shields.io/badge/Codeforces-%23282C34?&style=flat-square&logo=codeforces&logoColor=white" alt="Codeforce" title="dAd0qbu - Phan Duy"></a>
  <a href="mailto:pnhd.dyh@gmail.com"><img src="https://img.shields.io/badge/Gmail-pnhd.dyh%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-dAd0qbu%234684-007ACC?&style=flat-square&logo=discord&logoColor=white" alt="Codeforce" title="dAd0qbu#4684"></a>
+<a href="https://discord.com/users/432152527530754048" target="_blank"><img src="https://img.shields.io/badge/Discord-dAd0qbu%234684-007ACC?&style=flat-square&logo=discord&logoColor=white" alt="Codeforce" title="dAd0qbu#4684"></a>
 --
 
 - 👨‍💼 Studying in high school
