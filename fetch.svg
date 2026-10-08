@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="942" height="418" viewBox="0 0 942 418" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal uwu-neofetch typing loop</title>
+  <desc id="desc">Terminal-style SVG animation. The command dAd0qbu types first, then the uwu-neofetch anime art and profile text appear with typing effects. The final frame holds for about four seconds and loops. Source art: blyxyas/uwu-neofetch-art colored/anime-uwu.txt.</desc>
+  <defs>
+    <clipPath id="clip-cmd" clipPathUnits="userSpaceOnUse">
+      <rect x="30" y="50.2" width="0" height="24.8">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;12.05;21.6;31.15;40.7;50.25;59.8;69.35;69.35" keyTimes="0;0.02083;0.03323;0.04563;0.05804;0.07044;0.08284;0.09524;0.10764;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-name" clipPathUnits="userSpaceOnUse">
+      <rect x="318" y="158.2" width="0" height="24.8">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;12.05;21.6;31.15;40.7;50.25;59.8;69.35;78.9;88.45;98;107.55;117.1;126.65;136.2;145.75;155.3;155.3" keyTimes="0;0.14444;0.149;0.15356;0.15812;0.16267;0.16723;0.17179;0.17635;0.1809;0.18546;0.19002;0.19457;0.19913;0.20369;0.20825;0.2128;0.21736;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-row1" clipPathUnits="userSpaceOnUse">
+      <rect x="357" y="199.2" width="0" height="24.8">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;12.05;21.6;31.15;40.7;50.25;59.8;69.35;78.9;88.45;98;107.55;117.1;126.65;136.2;145.75;155.3;164.85;174.4;183.95;193.5;203.05;212.6;222.15;231.7;241.25;250.8;260.35;269.9;279.45;289;298.55;308.1;317.65;327.2;336.75;346.3;355.85;365.4;374.95;384.5;394.05;403.6;413.15;422.7;432.25;441.8;451.35;460.9;470.45;480;489.55;499.1;508.65;518.2;527.75;537.3;546.85;556.4;565.95;575.5;575.5" keyTimes="0;0.2375;0.24005;0.24259;0.24514;0.24769;0.25023;0.25278;0.25532;0.25787;0.26042;0.26296;0.26551;0.26806;0.2706;0.27315;0.27569;0.27824;0.28079;0.28333;0.28588;0.28843;0.29097;0.29352;0.29606;0.29861;0.30116;0.3037;0.30625;0.3088;0.31134;0.31389;0.31644;0.31898;0.32153;0.32407;0.32662;0.32917;0.33171;0.33426;0.33681;0.33935;0.3419;0.34444;0.34699;0.34954;0.35208;0.35463;0.35718;0.35972;0.36227;0.36481;0.36736;0.36991;0.37245;0.375;0.37755;0.38009;0.38264;0.38519;0.38773;0.39028;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-row2" clipPathUnits="userSpaceOnUse">
+      <rect x="357" y="221.2" width="0" height="24.8">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;12.05;21.6;31.15;40.7;50.25;59.8;69.35;78.9;88.45;98;107.55;117.1;126.65;136.2;145.75;155.3;164.85;174.4;183.95;193.5;203.05;212.6;222.15;231.7;241.25;250.8;260.35;269.9;279.45;289;298.55;308.1;317.65;327.2;336.75;346.3;355.85;365.4;365.4" keyTimes="0;0.40694;0.40959;0.41224;0.41489;0.41754;0.42019;0.42284;0.42549;0.42814;0.43079;0.43344;0.43609;0.43874;0.44139;0.44404;0.44669;0.44934;0.45199;0.45464;0.45729;0.45994;0.46259;0.46524;0.46789;0.47054;0.47319;0.47584;0.47849;0.48114;0.48379;0.48644;0.48909;0.49174;0.49439;0.49704;0.49969;0.50234;0.50499;0.50764;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-row3" clipPathUnits="userSpaceOnUse">
+      <rect x="357" y="243.2" width="0" height="24.8">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;12.05;21.6;31.15;40.7;50.25;59.8;69.35;78.9;88.45;98;107.55;117.1;126.65;136.2;136.2" keyTimes="0;0.52431;0.52718;0.53006;0.53294;0.53581;0.53869;0.54157;0.54444;0.54732;0.5502;0.55308;0.55595;0.55883;0.56171;0.56458;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-row4" clipPathUnits="userSpaceOnUse">
+      <rect x="357" y="265.2" width="0" height="24.8">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;12.05;21.6;31.15;40.7;50.25;59.8;69.35;78.9;88.45;98;107.55;117.1;126.65;136.2;145.75;155.3;164.85;174.4;183.95;183.95" keyTimes="0;0.57778;0.58063;0.58348;0.58633;0.58918;0.59203;0.59488;0.59773;0.60058;0.60344;0.60629;0.60914;0.61199;0.61484;0.61769;0.62054;0.62339;0.62624;0.62909;0.63194;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-footer" clipPathUnits="userSpaceOnUse">
+      <rect x="12" y="385.5" width="0" height="26.5">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;13.1;23.7;34.3;44.9;55.5;66.1;76.7;87.3;97.9;108.5;119.1;129.7;140.3;140.3" keyTimes="0;0.65278;0.65748;0.66218;0.66688;0.67158;0.67628;0.68098;0.68568;0.69038;0.69509;0.69979;0.70449;0.70919;0.71389;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-art-0" clipPathUnits="userSpaceOnUse">
+      <rect x="12" y="77.8" width="0" height="24.2">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="linear" values="0;0;286;286" keyTimes="0;0.11944;0.13056;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-art-1" clipPathUnits="userSpaceOnUse">
+      <rect x="12" y="98.2" width="0" height="24.2">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="linear" values="0;0;286;286" keyTimes="0;0.12444;0.13556;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-art-2" clipPathUnits="userSpaceOnUse">
+      <rect x="12" y="118.6" width="0" height="24.2">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="linear" values="0;0;286;286" keyTimes="0;0.12944;0.14056;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-art-3" clipPathUnits="userSpaceOnUse">
+      <rect x="12" y="139" width="0" height="24.2">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="linear" values="0;0;286;286" keyTimes="0;0.13444;0.14556;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-art-4" clipPathUnits="userSpaceOnUse">
+      <rect x="12" y="159.4" width="0" height="24.2">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="linear" values="0;0;286;286" keyTimes="0;0.13944;0.15056;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-art-5" clipPathUnits="userSpaceOnUse">
+      <rect x="12" y="179.8" width="0" height="24.2">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="linear" values="0;0;286;286" keyTimes="0;0.14444;0.15556;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-art-6" clipPathUnits="userSpaceOnUse">
+      <rect x="12" y="200.2" width="0" height="24.2">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="linear" values="0;0;286;286" keyTimes="0;0.14944;0.16056;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-art-7" clipPathUnits="userSpaceOnUse">
+      <rect x="12" y="220.6" width="0" height="24.2">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="linear" values="0;0;286;286" keyTimes="0;0.15444;0.16556;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-art-8" clipPathUnits="userSpaceOnUse">
+      <rect x="12" y="241" width="0" height="24.2">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="linear" values="0;0;286;286" keyTimes="0;0.15944;0.17056;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-art-9" clipPathUnits="userSpaceOnUse">
+      <rect x="12" y="261.4" width="0" height="24.2">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="linear" values="0;0;286;286" keyTimes="0;0.16444;0.17556;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-art-10" clipPathUnits="userSpaceOnUse">
+      <rect x="12" y="281.8" width="0" height="24.2">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="linear" values="0;0;286;286" keyTimes="0;0.16944;0.18056;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-art-11" clipPathUnits="userSpaceOnUse">
+      <rect x="12" y="302.2" width="0" height="24.2">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="linear" values="0;0;286;286" keyTimes="0;0.17444;0.18556;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-art-12" clipPathUnits="userSpaceOnUse">
+      <rect x="12" y="322.6" width="0" height="24.2">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="linear" values="0;0;286;286" keyTimes="0;0.17944;0.19056;1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-art-13" clipPathUnits="userSpaceOnUse">
+      <rect x="12" y="343" width="0" height="24.2">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="linear" values="0;0;286;286" keyTimes="0;0.18444;0.19556;1"/>
+      </rect>
+    </clipPath>
+    <style><![CDATA[
+      svg { background: #242b33; }
+      .term {
+        font-family: "DejaVu Sans Mono", "Noto Sans Mono", Consolas, Menlo, Monaco, "Courier New", monospace;
+        font-weight: 700;
+        text-rendering: geometricPrecision;
+        dominant-baseline: alphabetic;
+      }
+      .art { font-weight: 400; }
+      .cyan { fill: #77e9f6; }
+      .green { fill: #a7dc7d; }
+      .cream { fill: #f2d884; }
+      .text { fill: #f4f5f7; }
+      .muted { fill: #f4f5f7; }
+      .cursor { fill: #f7f8fa; opacity: 0; shape-rendering: crispEdges; }
+      .line { fill: #f4f5f7; }
+      .art-c1 { fill: #f4d06f; }
+      .art-c2 { fill: #e986bf; }
+      .art-c3 { fill: #ff6f91; }
+    ]]></style>
+  </defs>
+
+  <rect width="942" height="418" fill="#242b33"/>
+
+  <g class="term" font-size="15.8" xml:space="preserve">
+    <text x="12" y="48" class="cyan">/github.com</text>
+    <g transform="translate(124 37)">
+      <path d="M2 6V4.8C2 2.1 3.9 0 6.2 0s4.2 2.1 4.2 4.8V6H8.8V4.8c0-1.6-1.1-3-2.6-3s-2.6 1.4-2.6 3V6z" fill="#ff8ca4"/>
+      <rect x="1" y="6" width="10.5" height="9" rx="1.5" fill="#ff8ca4"/>
+      <rect x="5.4" y="9" width="1.5" height="3.8" rx=".7" fill="#ffe0e7" opacity=".65"/>
+    </g>
+    <text x="12" y="70" class="green">&gt;</text>
+    <text x="30" y="70" class="term cyan" font-size="15.8" textLength="66.85" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-cmd)" xml:space="preserve">dAd0qbu</text>
+    <rect x="31" y="54.7" width="8.5" height="18" rx="1" class="cursor">
+        <animate attributeName="x" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="31;31;42.55;52.1;61.65;71.2;80.75;90.3;99.85;99.85" keyTimes="0;0.02083;0.03323;0.04563;0.05804;0.07044;0.08284;0.09524;0.10764;1"/>
+        <animate attributeName="opacity" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;1;0;0" keyTimes="0;0.02083;0.02167;0.10764;0.10847;1"/>
+      </rect>
+  </g>
+
+  <g id="profile-panel" opacity="0">
+    <animate attributeName="opacity" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;1" keyTimes="0;0.11528;0.11611;1"/>
+
+    <g id="uwu-neofetch-art" xml:space="preserve">
+            <text x="12" y="97" class="term art" font-size="15.2" textLength="286" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-art-0)" xml:space="preserve"><tspan class="art-c2">⡆⣐⢕⢕⢕⢕⢕⢕⢕⢕⠅⢗⢕⢕⢕⢕⢕⢕⢕⠕⠕⢕⢕⢕⢕⢕⢕⢕⢕⢕</tspan></text>
+      <text x="12" y="117.4" class="term art" font-size="15.2" textLength="286" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-art-1)" xml:space="preserve"><tspan class="art-c2">⢐⢕⢕⢕⢕⢕⣕⢕⢕⠕⠁⢕⢕⢕⢕⢕⢕⢕⢕⠅</tspan><tspan class="art-c1">⡄</tspan><tspan class="art-c2">⢕⢕⢕⢕⢕⢕⢕⢕⢕</tspan></text>
+      <text x="12" y="137.8" class="term art" font-size="15.2" textLength="286" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-art-2)" xml:space="preserve"><tspan class="art-c2">⢕⢕⢕⢕⢕⠅⢗⢕⠕</tspan><tspan class="art-c1">⣠⠄</tspan><tspan class="art-c2">⣗⢕⢕⠕⢕⢕⢕⠕</tspan><tspan class="art-c1">⢠⣿</tspan><tspan class="art-c2">⠐⢕⢕⢕⠑⢕⢕⠵⢕</tspan></text>
+      <text x="12" y="158.2" class="term art" font-size="15.2" textLength="286" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-art-3)" xml:space="preserve"><tspan class="art-c2">⢕⢕⢕⢕⠁⢜⠕</tspan><tspan class="art-c1">⢁⣴⣿⡇</tspan><tspan class="art-c2">⢓⢕⢵⢐⢕⢕⠕</tspan><tspan class="art-c1">⢁⣾⢿⣧</tspan><tspan class="art-c2">⠑⢕⢕⠄⢑⢕⠅⢕</tspan></text>
+      <text x="12" y="178.6" class="term art" font-size="15.2" textLength="286" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-art-4)" xml:space="preserve"><tspan class="art-c2">⢕⢕⠵⢁⠔</tspan><tspan class="art-c1">⢁⣤⣤⣶⣶⣶</tspan><tspan class="art-c2">⡐⣕⢽⠐⢕⠕</tspan><tspan class="art-c1">⣡⣾⣶⣶⣶⣤</tspan><tspan class="art-c2">⡁⢓⢕⠄⢑⢅⢑</tspan></text>
+      <text x="12" y="199" class="term art" font-size="15.2" textLength="286" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-art-5)" xml:space="preserve"><tspan class="art-c2">⠍⣧⠄</tspan><tspan class="art-c1">⣶⣾⣿⣿⣿⣿⣿⣿⣷</tspan><tspan class="art-c2">⣔⢕⢄</tspan><tspan class="art-c1">⢡⣾⣿⣿⣿⣿⣿⣿⣿⣦</tspan><tspan class="art-c2">⡑⢕⢤⠱⢐</tspan></text>
+      <text x="12" y="219.4" class="term art" font-size="15.2" textLength="286" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-art-6)" xml:space="preserve"><tspan class="art-c2">⢠⢕⠅</tspan><tspan class="art-c1">⣾⣿⠋⢿⣿⣿⣿⠉⣿⣿⣷⣦⣶⣽⣿⣿⠈⣿⣿⣿⣿⠏⢹⣷⣷⡅</tspan><tspan class="art-c2">⢐</tspan></text>
+      <text x="12" y="239.8" class="term art" font-size="15.2" textLength="286" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-art-7)" xml:space="preserve"><tspan class="art-c2">⣔⢕⢥</tspan><tspan class="art-c1">⢻⣿⡀⠈⠛⠛⠁⢠⣿⣿⣿⣿⣿⣿⣿⣿⡀⠈⠛⠛⠁⠄⣼⣿⣿⡇</tspan><tspan class="art-c2">⢔</tspan></text>
+      <text x="12" y="260.2" class="term art" font-size="15.2" textLength="286" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-art-8)" xml:space="preserve"><tspan class="art-c2">⢕⢕⢽⢸</tspan><tspan class="art-c1">⢟</tspan><tspan class="art-c3">⢟⢖⢖⢤</tspan><tspan class="art-c1">⣶⡟⢻⣿⡿⠻⣿⣿⡟⢀⣿</tspan><tspan class="art-c3">⣦⢤⢤⢔⢞⢿</tspan><tspan class="art-c1">⢿⣿⠁</tspan><tspan class="art-c2">⢕</tspan></text>
+      <text x="12" y="280.6" class="term art" font-size="15.2" textLength="286" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-art-9)" xml:space="preserve"><tspan class="art-c2">⢕⢕⠅</tspan><tspan class="art-c3">⣐⢕⢕⢕⢕⢕</tspan><tspan class="art-c1">⣿⣿⡄⠛⢀⣦⠈⠛⢁⣼⣿</tspan><tspan class="art-c3">⢗⢕⢕⢕⢕⢕⢕</tspan><tspan class="art-c2">⡏⣘⢕</tspan></text>
+      <text x="12" y="301" class="term art" font-size="15.2" textLength="286" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-art-10)" xml:space="preserve"><tspan class="art-c2">⢕⢕⠅</tspan><tspan class="art-c3">⢓⣕⣕⣕⣕</tspan><tspan class="art-c1">⣵⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣷</tspan><tspan class="art-c3">⣕⢕⢕⢕⢕⡵</tspan><tspan class="art-c2">⢀⢕⢕</tspan></text>
+      <text x="12" y="321.4" class="term art" font-size="15.2" textLength="286" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-art-11)" xml:space="preserve"><tspan class="art-c2">⢑⢕⠃⡈</tspan><tspan class="art-c1">⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan><tspan class="art-c2">⢃⢕⢕⢕</tspan></text>
+      <text x="12" y="341.8" class="term art" font-size="15.2" textLength="286" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-art-12)" xml:space="preserve"><tspan class="art-c2">⣆⢕⠄⢱⣄</tspan><tspan class="art-c1">⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿</tspan><tspan class="art-c2">⢁⢕⢕⠕⢁</tspan></text>
+      <text x="12" y="362.2" class="term art" font-size="15.2" textLength="286" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-art-13)" xml:space="preserve"><tspan class="art-c2">⣿⣦⡀⣿⣿⣷⣶⣬⣍</tspan><tspan class="art-c1">⣛⣛⣛⡛⠿⠿⠿⠛⠛⢛⣛</tspan><tspan class="art-c2">⣉⣭⣤⣂⢜⠕⢑⣡⣴⣿</tspan></text>
+    </g>
+
+    <g class="term" font-size="15.8" xml:space="preserve">
+      <text x="318" y="178" class="term cream" font-size="15.8" textLength="152.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-name)" xml:space="preserve">duy041_dun7_kn0w</text>
+      <rect x="319" y="162.7" width="8.5" height="18" rx="1" class="cursor">
+        <animate attributeName="x" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="319;319;330.55;340.1;349.65;359.2;368.75;378.3;387.85;397.4;406.95;416.5;426.05;435.6;445.15;454.7;464.25;473.8;473.8" keyTimes="0;0.14444;0.149;0.15356;0.15812;0.16267;0.16723;0.17179;0.17635;0.1809;0.18546;0.19002;0.19457;0.19913;0.20369;0.20825;0.2128;0.21736;1"/>
+        <animate attributeName="opacity" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;1;0;0" keyTimes="0;0.14444;0.14528;0.21736;0.21819;1"/>
+      </rect>
+      <rect x="318" y="189" width="0" height="2.4" rx="1.2" class="line">
+        <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="linear" values="0;0;215;215" keyTimes="0;0.22083;0.24514;1"/>
+      </rect>
+
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;1" keyTimes="0;0.23403;0.23486;1"/>
+        <g fill="#f2d884">
+          <circle cx="326" cy="211" r="4.2"/>
+          <path d="M319 222c1-6 4.1-8.7 7-8.7s6 2.7 7 8.7z"/>
+          <rect x="320" y="204.5" width="12" height="2" rx="1"/>
+        </g>
+      </g>
+      <text x="357" y="219" class="term text" font-size="15.8" textLength="573" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-row1)" xml:space="preserve">•  Studying in University of Information Technology - VNUHCM</text>
+      <rect x="358" y="203.7" width="8.5" height="18" rx="1" class="cursor">
+        <animate attributeName="x" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="358;358;369.55;379.1;388.65;398.2;407.75;417.3;426.85;436.4;445.95;455.5;465.05;474.6;484.15;493.7;503.25;512.8;522.35;531.9;541.45;551;560.55;570.1;579.65;589.2;598.75;608.3;617.85;627.4;636.95;646.5;656.05;665.6;675.15;684.7;694.25;703.8;713.35;722.9;732.45;742;751.55;761.1;770.65;780.2;789.75;799.3;808.85;818.4;827.95;837.5;847.05;856.6;866.15;875.7;885.25;894.8;904.35;913.9;923.45;933;933" keyTimes="0;0.2375;0.24005;0.24259;0.24514;0.24769;0.25023;0.25278;0.25532;0.25787;0.26042;0.26296;0.26551;0.26806;0.2706;0.27315;0.27569;0.27824;0.28079;0.28333;0.28588;0.28843;0.29097;0.29352;0.29606;0.29861;0.30116;0.3037;0.30625;0.3088;0.31134;0.31389;0.31644;0.31898;0.32153;0.32407;0.32662;0.32917;0.33171;0.33426;0.33681;0.33935;0.3419;0.34444;0.34699;0.34954;0.35208;0.35463;0.35718;0.35972;0.36227;0.36481;0.36736;0.36991;0.37245;0.375;0.37755;0.38009;0.38264;0.38519;0.38773;0.39028;1"/>
+        <animate attributeName="opacity" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;1;0;0" keyTimes="0;0.2375;0.23833;0.39028;0.39111;1"/>
+      </rect>
+
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;1" keyTimes="0;0.40347;0.40431;1"/>
+        <g fill="#f2d884">
+          <path d="M318 235l8-7 8 7v10h-16z"/>
+          <rect x="322" y="237" width="8" height="8" fill="#ffe8ad" opacity=".7"/>
+        </g>
+      </g>
+      <text x="357" y="241" class="term text" font-size="15.8" textLength="362.9" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-row2)" xml:space="preserve">•  Living in Thu Duc, Ho Chi Minh City</text>
+      <rect x="358" y="225.7" width="8.5" height="18" rx="1" class="cursor">
+        <animate attributeName="x" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="358;358;369.55;379.1;388.65;398.2;407.75;417.3;426.85;436.4;445.95;455.5;465.05;474.6;484.15;493.7;503.25;512.8;522.35;531.9;541.45;551;560.55;570.1;579.65;589.2;598.75;608.3;617.85;627.4;636.95;646.5;656.05;665.6;675.15;684.7;694.25;703.8;713.35;722.9;722.9" keyTimes="0;0.40694;0.40959;0.41224;0.41489;0.41754;0.42019;0.42284;0.42549;0.42814;0.43079;0.43344;0.43609;0.43874;0.44139;0.44404;0.44669;0.44934;0.45199;0.45464;0.45729;0.45994;0.46259;0.46524;0.46789;0.47054;0.47319;0.47584;0.47849;0.48114;0.48379;0.48644;0.48909;0.49174;0.49439;0.49704;0.49969;0.50234;0.50499;0.50764;1"/>
+        <animate attributeName="opacity" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;1;0;0" keyTimes="0;0.40694;0.40778;0.50764;0.50847;1"/>
+      </rect>
+
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;1" keyTimes="0;0.52083;0.52167;1"/>
+        <g fill="#f2d884">
+          <circle cx="326" cy="257" r="6"/>
+          <path d="M319 254l-3-4v8zM333 254l3-4v8z"/>
+        </g>
+      </g>
+      <text x="357" y="263" class="term text" font-size="15.8" textLength="133.7" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-row3)" xml:space="preserve">•  Doggo lover</text>
+      <rect x="358" y="247.7" width="8.5" height="18" rx="1" class="cursor">
+        <animate attributeName="x" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="358;358;369.55;379.1;388.65;398.2;407.75;417.3;426.85;436.4;445.95;455.5;465.05;474.6;484.15;493.7;493.7" keyTimes="0;0.52431;0.52718;0.53006;0.53294;0.53581;0.53869;0.54157;0.54444;0.54732;0.5502;0.55308;0.55595;0.55883;0.56171;0.56458;1"/>
+        <animate attributeName="opacity" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;1;0;0" keyTimes="0;0.52431;0.52514;0.56458;0.56542;1"/>
+      </rect>
+
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;1" keyTimes="0;0.57431;0.57514;1"/>
+        <g fill="#f2d884">
+          <rect x="320" y="271" width="2" height="15" rx="1"/>
+          <path d="M322 272h11l-3.2 4 3.2 4h-11z"/>
+        </g>
+      </g>
+      <text x="357" y="285" class="term text" font-size="15.8" textLength="181.45" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-row4)" xml:space="preserve">•  CTF enjoyer hehe</text>
+      <rect x="358" y="269.7" width="8.5" height="18" rx="1" class="cursor">
+        <animate attributeName="x" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="358;358;369.55;379.1;388.65;398.2;407.75;417.3;426.85;436.4;445.95;455.5;465.05;474.6;484.15;493.7;503.25;512.8;522.35;531.9;541.45;541.45" keyTimes="0;0.57778;0.58063;0.58348;0.58633;0.58918;0.59203;0.59488;0.59773;0.60058;0.60344;0.60629;0.60914;0.61199;0.61484;0.61769;0.62054;0.62339;0.62624;0.62909;0.63194;1"/>
+        <animate attributeName="opacity" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;1;0;0" keyTimes="0;0.57778;0.57861;0.63194;0.63278;1"/>
+      </rect>
+
+      <text x="12" y="407" class="term muted" font-size="17.5" textLength="137.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-footer)" xml:space="preserve">I luv sec btw</text>
+      <rect x="13" y="390" width="10" height="19.7" rx="1" class="cursor">
+        <animate attributeName="x" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="13;13;25.6;36.2;46.8;57.4;68;78.6;89.2;99.8;110.4;121;131.6;142.2;152.8;152.8" keyTimes="0;0.65278;0.65748;0.66218;0.66688;0.67158;0.67628;0.68098;0.68568;0.69038;0.69509;0.69979;0.70449;0.70919;0.71389;1"/>
+        <animate attributeName="opacity" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;1" keyTimes="0;0.65278;0.65361;1"/>
+      </rect>
+    </g>
+  </g>
+</svg>
